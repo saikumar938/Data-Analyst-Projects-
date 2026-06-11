@@ -1,10 +1,6 @@
 
 
-# 📊 Mobile Sales Dashboard – Power BI
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)   how can i add this  
+# 📊 Mobile Sales Dashboard – Power B
 
 
 ## 🚀 Project Overview
@@ -12,8 +8,6 @@
 The **Mobile Sales Dashboard** is an interactive Power BI dashboard developed to analyze mobile phone sales performance across different cities, brands, payment methods, and time periods.
 
 The dashboard provides a comprehensive view of sales trends, customer behavior, transaction patterns, and product performance, enabling stakeholders to make data-driven business decisions.
-
----
 
 ## 🎯 Objectives
 
@@ -27,7 +21,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 
 ## 📷 Dashboard Preview
 
-<img width="100%" src="MobileSalesDashboard.png" alt="Mobile Sales Dashboard">
+![Mobile Sales Dashboard](MobileSalesDashboard.png)
 
 
 ## 📌 Dashboard Features
@@ -41,8 +35,6 @@ The dashboard provides:
 * 💳 Total Transactions
 * 📊 Average Sales
 
----
-
 ### 🗺️ Geographic Analysis
 
 **Total Sales by City**
@@ -51,7 +43,6 @@ The dashboard provides:
 * City-wise sales comparison
 * Regional performance insights
 
----
 
 ### 📅 Time-Based Analysis
 
@@ -61,8 +52,6 @@ The dashboard provides:
 * Seasonal demand identification
 * Growth and decline tracking
 
----
-
 ### ⭐ Customer Satisfaction Analysis
 
 **Customer Ratings**
@@ -70,8 +59,6 @@ The dashboard provides:
 * Rating distribution visualization
 * Customer feedback trends
 * Satisfaction measurement
-
----
 
 ### 💳 Payment Method Analysis
 
@@ -86,7 +73,6 @@ Comparison of:
 
 Helps identify preferred payment options.
 
----
 
 ### 📱 Product Performance Analysis
 
@@ -96,7 +82,6 @@ Helps identify preferred payment options.
 * Product-wise revenue contribution
 * Model performance comparison
 
----
 
 ### 📆 Sales by Day Analysis
 
@@ -106,7 +91,6 @@ Helps identify preferred payment options.
 * Peak sales day identification
 * Customer purchasing behavior analysis
 
----
 
 ## 🛠️ Tools & Technologies Used
 
@@ -118,7 +102,6 @@ Helps identify preferred payment options.
 | Excel / CSV   | Data Source                    |
 | Data Modeling | Relationship Management        |
 
----
 
 ## 📊 Dashboard Insights
 
@@ -131,7 +114,6 @@ Helps identify preferred payment options.
 * Compared mobile brand performance.
 * Highlighted top-selling mobile models.
 
----
 
 ## 🎨 Dashboard Components
 
@@ -153,7 +135,6 @@ Helps identify preferred payment options.
 * Data Table
 * Interactive Filters
 
----
 
 ## 📈 Business Benefits
 
@@ -178,8 +159,5 @@ Helps identify preferred payment options.
 * Data Visualization
 * Business Insight Generation
 * Report Documentation
-
----
-
 
 
