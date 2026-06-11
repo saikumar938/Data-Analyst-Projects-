@@ -21,7 +21,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 
 ## 📷 Dashboard Preview
 
-![Mobile Sales Dashboard](MobileSalesDashboard.png)
+![Mobile Sales Dashboard](Mobile Sales/MobileSalesDashboard.png)
 
 
 ## 📌 Dashboard Features
