@@ -1,8 +1,10 @@
 
 
 # 📊 Mobile Sales Dashboard – Power BI
-
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)   how can i add this  
 
 
 ## 🚀 Project Overview
@@ -25,7 +27,7 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 
 ## 📷 Dashboard Preview
 
-<img width="100%" src="Dashboard_Screenshot.png" alt="Mobile Sales Dashboard">
+<img width="100%" src="MobileSalesDashboard.png" alt="Mobile Sales Dashboard">
 
 
 ## 📌 Dashboard Features
