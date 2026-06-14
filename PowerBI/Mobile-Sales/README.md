@@ -19,7 +19,9 @@ The dashboard provides a comprehensive view of sales trends, customer behavior, 
 * Identify top-performing mobile models.
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](Mobile-Sales/MobileSalesDashboard.png)
+
+
+![Mobile Sales Dashboard](MobileSalesDashboard.png)
 
 
 ## 📌 Dashboard Features
