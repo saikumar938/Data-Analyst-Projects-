@@ -1,5 +1,4 @@
 # 🏥 Hospital Emergency Room Analytics Dashboard | Excel
-
 ## 📊 Project Overview
 
 The **Hospital Emergency Room Analytics Dashboard** is an interactive Excel dashboard designed to monitor patient flow, emergency room performance, wait times, admission status, referral patterns, and patient demographics.
@@ -44,7 +43,6 @@ The dashboard provides dynamic KPIs that update based on the selected month and 
 These metrics help healthcare administrators monitor emergency room performance and operational efficiency across different time periods.
 
 ## 📌 Dashboard Features
-
 ### 👥 Patient Admission Analysis
 
 Tracks:
