@@ -6,7 +6,6 @@ The **Hospital Emergency Room Analytics Dashboard** is an interactive Excel dash
 
 This dashboard helps hospital administrators and healthcare managers gain actionable insights into emergency room operations, identify bottlenecks, improve patient experience, and support data-driven decision-making.
 
-
 ## 🎯 Business Problem
 
 Emergency rooms often experience high patient volumes, long waiting times, and resource allocation challenges. Healthcare administrators need a centralized reporting solution to monitor operational efficiency and improve patient care.
@@ -20,7 +19,6 @@ This dashboard was developed to:
 * Evaluate department referral patterns.
 * Support healthcare performance monitoring.
 
-
 ## 🛠️ Tools & Technologies Used
 
 * Microsoft Excel
@@ -30,7 +28,6 @@ This dashboard was developed to:
 * Data Cleaning
 * Data Visualization
 * KPI Reporting
-
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -46,7 +43,6 @@ The dashboard provides dynamic KPIs that update based on the selected month and 
 
 These metrics help healthcare administrators monitor emergency room performance and operational efficiency across different time periods.
 
-
 ## 📌 Dashboard Features
 
 ### 👥 Patient Admission Analysis
@@ -59,7 +55,6 @@ Tracks:
 
 This helps hospitals understand patient intake patterns and resource requirements.
 
-
 ### ⏱️ Timeliness Analysis
 
 Measures the percentage of patients attended within the target response time.
@@ -70,7 +65,6 @@ Benefits:
 * Monitor service quality
 * Identify delays in patient care
 
-
 ### 🚻 Gender Analysis
 
 Analyzes patient distribution by gender:
@@ -79,7 +73,6 @@ Analyzes patient distribution by gender:
 * Female Patients
 
 Useful for demographic analysis and healthcare planning.
-
 
 ### 🎂 Patient Age Group Analysis
 
@@ -95,7 +88,6 @@ Patient volume is segmented into age groups:
 
 This helps identify age groups requiring the most medical attention.
 
-
 ### 🏥 Department Referral Analysis
 
 Tracks patient referrals to departments such as:
@@ -110,11 +102,9 @@ Tracks patient referrals to departments such as:
 
 This assists hospitals in resource allocation and department workload management.
 
-
 ### 📅 Monthly Performance Monitoring
 
 Interactive month slicers allow users to analyze emergency room performance across different periods and identify seasonal trends.
-
 
 ## 📊 Key Insights
 
@@ -147,13 +137,11 @@ Interactive month slicers allow users to analyze emergency room performance acro
 
 ✔ Patient Experience Improvement
 
-
 ## 📂 Repository Contents
 
 Hospital Emergency Room Dashboard.xlsx |
 HospitalEmergencyRoomDashboard.png |
 README.md
-
 
 ## 🔮 Future Enhancements
 
@@ -163,7 +151,6 @@ README.md
 * Bed Occupancy Dashboard
 * Resource Utilization Analysis
 * Power BI Version of Dashboard
-
 
 ## 👨‍💻 Author
 
