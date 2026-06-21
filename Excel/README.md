@@ -127,7 +127,8 @@ Interactive month slicers allow users to analyze emergency room performance acro
 
 
 ## 📷 Dashboard Preview
-![Hospital Emergency Room Data](Hospital-ER.png)
+
+![Hospital Emergency Room Dashboard](Hospital-ER.png)
 
 
 ## 💼 Business Value
@@ -149,8 +150,8 @@ Interactive month slicers allow users to analyze emergency room performance acro
 
 ## 📂 Repository Contents
 
-Hospital Emergency Room Dashboard.xlsx
-HospitalEmergencyRoomDashboard.png
+Hospital Emergency Room Dashboard.xlsx |
+HospitalEmergencyRoomDashboard.png |
 README.md
 
 
