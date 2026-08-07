@@ -7,8 +7,6 @@ The **Swiggy Sales Analysis Dashboard** is an interactive business analytics pro
 The dashboard helps analyze sales performance, customer ratings, order trends, food category distribution, city-wise and state-wise sales, enabling businesses to make informed, data-driven decisions.
 
 
-## 📸 Dashboard Preview
-
 ### Dashboard
 # 📸 Dashboard Preview
 
@@ -117,35 +115,7 @@ The dataset contains various business attributes, including:
 - Formulas & Functions
 - Dashboard Design
 - Data Cleaning
-- Data Visualization
-
-# 📊 Dashboard Workflow
-
-```text
-Raw Dataset
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Data Preparation
-      │
-      ▼
-Pivot Tables
-      │
-      ▼
-Pivot Charts
-      │
-      ▼
-KPI Calculations
-      │
-      ▼
-Interactive Slicers
-      │
-      ▼
-Final Excel Dashboard
-```
-
+- Data Visualizatio
 
 # 🚀 Skills Demonstrated
 
